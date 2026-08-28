@@ -38,8 +38,7 @@ with open("channels.csv", newline="", encoding="utf-8") as f:
             
             for cid in ids:
                 url = url_format.format(host=host, username=username, password=password,channel_id=cid)                
-                logo = f'https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/{channel.lower().replace(" ", "-")}.png'
-                extinf = (f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}", {channel} ({source_name[0]})')
+                extinf = (f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}", {channel} ({source_name[0]})')
                 m3u_lines.append(extinf)
                 m3u_lines.append(url)
                 m3u_lines.append("")

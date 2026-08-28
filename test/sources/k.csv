@@ -1,19 +1,19 @@
 host,username,password,status,created_at,exp_date,active_cons,max_connections
-http://kstv.us:8080,YuQAe1ZjWg,5230880594,Active,2018-11-19 05:00:00,,0.0,3.0
-http://kstv.us:8080,h0trod67,114781,Active,2019-07-01 07:00:00,,0.0,3.0
-http://kstv.us:8080,FuRyR1yH1d,1449188108,Active,2020-05-29 00:00:00,,0.0,3.0
-http://kstv.us:8080,yHUgCGGzt8,9586979574,Active,2019-11-21 05:00:00,,1.0,3.0
-http://kstv.us:8080,Hectorsubi,6570141525,Active,2020-03-31 04:00:00,,1.0,3.0
-http://kstv.us:8080,gaT5kcT2AG,5879423066,Active,2020-08-03 04:00:00,,2.0,5.0
-http://kstv.us:8080,7YRhKJqhE8,Sap10,Active,2020-07-28 04:00:00,,2.0,3.0
-http://kstv.us:8080,N4K06N9SDq,9432382212,Active,2020-12-31 05:00:00,,3.0,5.0
-http://kstv.us:8080,Jasierra79,64484332098,Active,2023-05-25 07:00:00,,3.0,5.0
-http://kstv.us:8080,Turneradt,7962015639,Active,2018-07-29 00:00:00,,3.0,4.0
-http://kstv.us:8080,fanman,7678987224,Active,2018-07-24 04:00:00,,4.0,5.0
-http://kstv.us:8080,na4BM3Mrc,5406787236,Active,2018-07-07 23:00:00,,4.0,4.0
-http://kstv.us:8080,0MtU6hTEfc,0310998554,Active,2021-06-13 07:00:00,,5.0,5.0
-http://kstv.us:8080,jimmyrhale,JE1974aa$$,Active,2018-06-09 23:00:00,,6.0,5.0
-http://kstv.us:8080,s2kprmMPu7,3351048201,Active,2020-02-22 05:00:00,,6.0,5.0
+http://kstv.us:8080,YuQAe1ZjWg,5230880594,invalid,,,,
+http://kstv.us:8080,h0trod67,114781,invalid,,,,
+http://kstv.us:8080,FuRyR1yH1d,1449188108,invalid,,,,
+http://kstv.us:8080,yHUgCGGzt8,9586979574,invalid,,,,
+http://kstv.us:8080,Hectorsubi,6570141525,invalid,,,,
+http://kstv.us:8080,gaT5kcT2AG,5879423066,invalid,,,,
+http://kstv.us:8080,7YRhKJqhE8,Sap10,invalid,,,,
+http://kstv.us:8080,N4K06N9SDq,9432382212,invalid,,,,
+http://kstv.us:8080,Jasierra79,64484332098,invalid,,,,
+http://kstv.us:8080,Turneradt,7962015639,invalid,,,,
+http://kstv.us:8080,fanman,7678987224,invalid,,,,
+http://kstv.us:8080,na4BM3Mrc,5406787236,invalid,,,,
+http://kstv.us:8080,0MtU6hTEfc,0310998554,invalid,,,,
+http://kstv.us:8080,jimmyrhale,JE1974aa$$,invalid,,,,
+http://kstv.us:8080,s2kprmMPu7,3351048201,invalid,,,,
 http://kstv.us:8080,Jerez416,8092110438,invalid,,,,
 http://kstv.us:8080,wAb3jbj69C,9162847236,invalid,,,,
 http://kstv.us:8080,harryo,3096276967,invalid,,,,
