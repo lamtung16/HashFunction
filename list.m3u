@@ -1,19 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
-http://kstv.us:8080/h0trod67/114781/22467
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
-http://kstv.us:8080/h0trod67/114781/15940
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/43978
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/44185
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/108426
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/841.m3u8
@@ -23,9 +11,6 @@ http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/268872.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/59174
-
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1454232&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/318045.m3u8
@@ -42,12 +27,6 @@ http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/1464
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (a)
 http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/146486.m3u8
 
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (k)
-http://kstv.us:8080/h0trod67/114781/15929
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (k)
-http://kstv.us:8080/h0trod67/114781/40651
-
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/57428
 
@@ -57,23 +36,8 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/44208
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6521/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077049&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/108429
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/127960
-
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/3996.m3u8
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (k)
-http://kstv.us:8080/h0trod67/114781/15928
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (k)
-http://kstv.us:8080/h0trod67/114781/40650
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/57429
@@ -84,23 +48,8 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/44209
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6492/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077048&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/108430
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/127961
-
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/3995.m3u8
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (k)
-http://kstv.us:8080/h0trod67/114781/15927
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (k)
-http://kstv.us:8080/h0trod67/114781/40649
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/57430
@@ -111,23 +60,8 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/44207
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6522/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077047&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/108431
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/127962
-
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/3994.m3u8
-
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (k)
-http://kstv.us:8080/h0trod67/114781/15926
-
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (k)
-http://kstv.us:8080/h0trod67/114781/40648
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/57431
@@ -138,23 +72,8 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/44206
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6445/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077046&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/108432
-
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/127963
-
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/3993.m3u8
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (k)
-http://kstv.us:8080/h0trod67/114781/15925
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (k)
-http://kstv.us:8080/h0trod67/114781/40647
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/57432
@@ -165,20 +84,8 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/44205
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6517/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077045&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/108433
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/127964
-
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/3992.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (k)
-http://kstv.us:8080/h0trod67/114781/48443
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/60023
@@ -195,9 +102,6 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/60026
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19158/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (k)
-http://kstv.us:8080/h0trod67/114781/47868
-
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/16571
 
@@ -212,9 +116,6 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/59265
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/9308/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1905853&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/276918.m3u8
@@ -231,9 +132,6 @@ http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709388.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (a)
 http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201043.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (k)
-http://kstv.us:8080/h0trod67/114781/47871
-
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/16559
 
@@ -242,9 +140,6 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/58924
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/9334/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=83447&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/276906.m3u8
@@ -258,29 +153,17 @@ http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709382.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (a)
 http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201047.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (k)
-http://kstv.us:8080/h0trod67/114781/15905
-
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/43964
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/19270
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/31470
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (s)
-http://smartvnow.xyz:25461/flossyathome/poohhi1031/39859
-
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/353.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/354.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN (k)
-http://kstv.us:8080/h0trod67/114781/15951
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/60190
@@ -294,9 +177,6 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19156/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/919.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 (k)
-http://kstv.us:8080/h0trod67/114781/15950
-
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/60192
 
@@ -309,17 +189,11 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19155/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/932.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (k)
-http://kstv.us:8080/h0trod67/114781/47863
-
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/58918
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/16566
-
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1458663&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709401.m3u8
@@ -329,9 +203,6 @@ http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709400.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (a)
 http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201038.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General", TNT Sports 1 (k)
-http://kstv.us:8080/h0trod67/114781/47850
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General", TNT Sports 1 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/16552
@@ -348,17 +219,11 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6565/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General", TNT Sports 1 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/2505/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General", TNT Sports 1 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=30567&extension=ts
-
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General", TNT Sports 1 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709378.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General", TNT Sports 1 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709377.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General", TNT Sports 2 (k)
-http://kstv.us:8080/h0trod67/114781/47851
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General", TNT Sports 2 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/16551
@@ -369,17 +234,11 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/43126
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General", TNT Sports 2 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/2506/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General", TNT Sports 2 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=30566&extension=ts
-
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General", TNT Sports 2 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709376.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General", TNT Sports 2 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709375.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General", TNT Sports 3 (k)
-http://kstv.us:8080/h0trod67/114781/47852
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General", TNT Sports 3 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/16550
@@ -390,17 +249,11 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/43124
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General", TNT Sports 3 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6564/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General", TNT Sports 3 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=30565&extension=ts
-
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General", TNT Sports 3 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709374.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General", TNT Sports 3 (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/709373.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General", TNT Sports 4 (k)
-http://kstv.us:8080/h0trod67/114781/47853
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General", TNT Sports 4 (e)
 http://etvhosts.site:55337/alfyeoman6/Bubbles123/16549
@@ -410,18 +263,6 @@ http://etvhosts.site:55337/alfyeoman6/Bubbles123/57420
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General", TNT Sports 4 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19054/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General", TNT Sports 4 (m)
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1905810&extension=ts
-
-#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (k)
-http://kstv.us:8080/h0trod67/114781/46445
-
-#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (k)
-http://kstv.us:8080/h0trod67/114781/46447
-
-#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (k)
-http://kstv.us:8080/h0trod67/114781/47111
 
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19056/index.m3u8
@@ -449,12 +290,6 @@ http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/687920.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (c)
 http://chasintv.vip/live/eldertch@yahoo.com/gr2RfNgahq/687919.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (k)
-http://kstv.us:8080/h0trod67/114781/46446
-
-#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (k)
-http://kstv.us:8080/h0trod67/114781/47099
 
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19061/index.m3u8
