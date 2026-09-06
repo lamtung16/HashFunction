@@ -2,4 +2,3 @@ server_id,host,username,password,url_format
 backup,http://233d3515.kazmazpaz.ru,,WLMTKVG728H5RP,{host}/iptv/{password}/{channel_id}/index.m3u8
 etvhosts,http://etvhosts.site:55337,alfyeoman6,Bubbles123,{host}/{username}/{password}/{channel_id}
 chasintv,http://chasintv.vip,eldertch@yahoo.com,gr2RfNgahq,{host}/live/{username}/{password}/{channel_id}.m3u8
-usafhd,http://usafhd.net,Waddinbg,Waddinbg,{host}/live/{username}/{password}/{channel_id}.m3u8
