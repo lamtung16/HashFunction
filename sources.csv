@@ -1,3 +1,4 @@
 server_id,host,username,password,url_format
 backup,http://233d3515.kazmazpaz.ru,,WLMTKVG728H5RP,{host}/iptv/{password}/{channel_id}/index.m3u8
 etvhosts,http://etvhosts.site:55337,alfyeoman6,Bubbles123,{host}/{username}/{password}/{channel_id}
+test,http://pixtv.org,4D90C248752147D,Tu85Z0jCYU,{host}/live/{username}/{password}/{channel_id}.m3u8
