@@ -1,5 +1,6 @@
 server_id,host,username,password,url_format
 backup,http://233d3515.kazmazpaz.ru,,WLMTKVG728H5RP,{host}/iptv/{password}/{channel_id}/index.m3u8
-etvhosts,http://etvhosts.site:55337,Andrew-charlesworth,5lePl3So80,{host}/{username}/{password}/{channel_id}
+etvhosts,http://etvhosts.site:55337,04bK8yNTr,ls3632YkeB,{host}/{username}/{password}/{channel_id}
 1,http://pixtv.org,4D90C248752147D,Tu85Z0jCYU,{host}/live/{username}/{password}/{channel_id}.m3u8
 2,http://brmcuyrv.kxubv.com,R36SJZZK,1BUM3WQ8,{host}/live/{username}/{password}/{channel_id}.m3u8
+p,http://pulsetvpro.cc,CarlaM57,nQ2AdjRQGUgg,{host}/live/{username}/{password}/{channel_id}.m3u8
