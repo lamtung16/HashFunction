@@ -21,6 +21,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/316492.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/316476.m3u8
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/11202.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/59174
 
@@ -45,6 +48,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/664452.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/348291.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/605470.m3u8
+
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/57428
 
@@ -56,6 +62,12 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6521/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/42917.m3u8
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/69660.m3u8
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/364617.m3u8
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/57429
@@ -69,6 +81,12 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6492/index.m3u8
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/30356.m3u8
 
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/69659.m3u8
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/364618.m3u8
+
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/57430
 
@@ -80,6 +98,12 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6522/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/78716.m3u8
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/69658.m3u8
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/364619.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/57431
@@ -93,6 +117,12 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6445/index.m3u8
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/30354.m3u8
 
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/69657.m3u8
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/364620.m3u8
+
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/57432
 
@@ -104,6 +134,12 @@ http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6517/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/42913.m3u8
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/69656.m3u8
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/364621.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/60023
@@ -177,6 +213,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/348315.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/365037.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/10514.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/16559
 
@@ -197,6 +236,12 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/980433.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/365044.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/10511.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/303269.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/43964
@@ -221,6 +266,9 @@ http://pulsetvpro.cc/live/CarlaM57/nQ2AdjRQGUgg/353.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/71345.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/13099.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="Football", beIN Sports 3 (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6821/index.m3u8
@@ -279,6 +327,9 @@ http://pixtv.org/live/4D90C248752147D/Tu85Z0jCYU/1015944.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/1015944.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/11203.m3u8
+
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/60192
 
@@ -293,6 +344,9 @@ http://pixtv.org/live/4D90C248752147D/Tu85Z0jCYU/71935.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/71935.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/11204.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/58918
@@ -311,6 +365,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/980426.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/348309.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/10528.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/16552
@@ -342,6 +399,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/17281.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/348297.m3u8
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/303270.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/16551
 
@@ -365,6 +425,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/980406.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/348298.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/303271.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/16550
@@ -390,6 +453,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/980407.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/17279.m3u8
 
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/303255.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/16549
 
@@ -413,6 +479,9 @@ http://atlanticflixtv.online:80/live/levy222/J9C6N87/311556.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (3)
 http://atlanticflixtv.online:80/live/levy222/J9C6N87/311555.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (4)
+http://best-8k.org/live/eagepmsat1396/kxj8ci32zo/303256.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (b)
 http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/19056/index.m3u8
