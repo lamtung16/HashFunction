@@ -294,6 +294,30 @@ http://pixtv.org/live/4D90C248752147D/Tu85Z0jCYU/71935.m3u8
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 (3)
 http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/71935.m3u8
 
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7322/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (1)
+http://pixtv.org/live/4D90C248752147D/Tu85Z0jCYU/71989.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (p)
+http://pulsetvpro.cc/live/CarlaM57/nQ2AdjRQGUgg/915.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (3)
+http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/71989.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7323/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (1)
+http://pixtv.org/live/4D90C248752147D/Tu85Z0jCYU/71988.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (p)
+http://pulsetvpro.cc/live/CarlaM57/nQ2AdjRQGUgg/914.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (3)
+http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/71988.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/58918
 
