@@ -1,11 +1,9 @@
 import pandas as pd
 
-# 1. Combine 1.csv through 7.csv into a single dataframe
-file_list = [f"{i}.csv" for i in range(1, 8)]
-df_combined = pd.concat([pd.read_csv(file) for file in file_list], ignore_index=True)
+df = pd.read_csv("output.csv")
 
 # 2. Sort the dataframe by the "host" column
-df_sorted = df_combined.sort_values(by="host")
+df_sorted = df.sort_values(by="host")
 
 # 3. Filter out rows where status != "Active" AND drop rows with missing hosts
 df_filtered = df_sorted[df_sorted["status"] == "Active"].dropna(subset=["host"])
