@@ -2,7 +2,6 @@ server_id,host,username,password,url_format
 backup,http://moilist.ottolok.net,,FX8YANKAXDBBEM,{host}/iptv/{password}/{channel_id}/index.m3u8
 etvhosts,http://etvhosts.site:55337,VZ0SyNWWsR,z9byB7Ys84,{host}/{username}/{password}/{channel_id}
 1,http://pixtv.org,334CC37783AFAF0,lVun8e420u,{host}/live/{username}/{password}/{channel_id}.m3u8
-2,http://brmcuyrv.kxubv.com,1XFY1REX,UQ3ECWBB,{host}/live/{username}/{password}/{channel_id}.m3u8
-p,http://pulsetvpro.cc,hazel123,hazel123,{host}/live/{username}/{password}/{channel_id}.m3u8
-3,http://atlanticflixtv.online:80,7551452417659617,fYdYxJBhHg,{host}/live/{username}/{password}/{channel_id}.m3u8
+2,http://pulsetvpro.cc,hazel123,hazel123,{host}/live/{username}/{password}/{channel_id}.m3u8
+3,http://atlanticflixtv.online:80,levy222,J9C6N87,{host}/live/{username}/{password}/{channel_id}.m3u8
 4,http://goldenpass.xyz:80,Matinjan,C2A65F63F45B,{host}/live/{username}/{password}/{channel_id}.m3u8
