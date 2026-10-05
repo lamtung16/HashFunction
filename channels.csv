@@ -1,5 +1,6 @@
 group,channel,tvg_id,etvhosts,backup,1,2,3,4
 Tennis,Tennis Channel,Tennis.Channel.HD.us2,[43978;],[],[71954;316492;],[841;],[316492;316476;],[]
+Tennis,Tennis Channel 2,plex.tv.Tennis.Channel.2.plex,[],[],[1182987;],[328632;],[1182987;],[]
 Tennis,Sky Sports Tennis,Sky.Sports.Tennis.HD.ie,[59174;],[],[],[],[664451;664452;348291;],[498032;310967;1138920;]
 Tennis,TSN 1,TSN.1.ca2,[57428;44208;],[6521;],[],[],[42917;],[]
 Tennis,TSN 2,TSN.2.ca2,[57429;44209;],[6492;],[],[],[30356;],[]
