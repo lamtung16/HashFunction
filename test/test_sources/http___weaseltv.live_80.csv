@@ -1,0 +1,16 @@
+host,username,password,status,created_at,exp_date,active_cons,max_connections
+http://weaseltv.live:80,c2aba9ce98,565209e9e145,Active,2026-09-17 22:00:00,2026-10-24 22:00:00,1.0,1.0
+http://weaseltv.live:80,fd7e063a43,e9sw2l2om1,Active,2026-08-28 22:00:00,2027-08-31 22:00:00,1.0,1.0
+http://weaseltv.live:80,9dd3841bc9,c7dc3546386b,Active,2026-03-01 23:00:00,2027-03-01 23:00:00,0.0,1.0
+http://weaseltv.live:80,2ee91ab41b,c2358c1be5db,Active,2026-07-22 22:00:00,2027-07-22 22:00:00,1.0,1.0
+http://weaseltv.live:80,74794c0bd7,94f35e7ce8ba,Active,2026-04-25 22:00:00,2027-05-03 22:00:00,1.0,1.0
+http://weaseltv.live:80,c06e6feae6,2bfaf3e95af2,Active,2026-02-28 23:00:00,2027-02-28 23:00:00,1.0,1.0
+http://weaseltv.live:80,36flm13yf4,1z323qeoq0,Active,2026-09-09 22:00:00,2026-10-11 22:00:00,0.0,1.0
+http://weaseltv.live:80,txk5emu9fo,f3r9pbl7xo,Active,2026-09-07 22:00:00,2027-12-25 23:00:00,0.0,1.0
+http://weaseltv.live:80,05dc7dcaf89b,dad72d82dc08,Active,2026-06-03 22:00:00,2027-06-03 22:00:00,0.0,1.0
+http://weaseltv.live:80,28844b9fa4,e864ccea83,Active,2026-02-18 23:00:00,2027-02-21 23:00:00,0.0,1.0
+http://weaseltv.live:80,5efd928cce,66c9e090140a,Active,2025-12-03 23:00:00,2026-12-03 23:00:00,0.0,1.0
+http://weaseltv.live:80,f60b1b0188,b4e700b43b6e,Active,2025-11-29 23:00:00,2028-06-01 22:00:00,0.0,1.0
+http://weaseltv.live:80,99bb6cfad0,f95f3c6020f8,Active,2025-11-12 23:00:00,2026-11-12 23:00:00,0.0,1.0
+http://weaseltv.live:80,48eb20a060,d8bb4b75f9,Active,2024-10-04 22:00:00,2026-12-17 23:00:00,0.0,1.0
+http://weaseltv.live:80,d2d263bc9e,23054ac3c452,Active,2026-08-21 22:00:00,2027-08-24 22:00:00,1.0,1.0

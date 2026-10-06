@@ -12,14 +12,35 @@ http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71954.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/316492.m3u8
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/841.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/268872.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/43978
+
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/328632.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/1182987.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/328632.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/59174
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/318045.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/856218.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/59174
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/57428
@@ -30,6 +51,15 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/44208
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6521/index.m3u8
 
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/3996.m3u8
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/57428
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/44208
+
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/57429
 
@@ -38,6 +68,15 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/44209
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6492/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/3995.m3u8
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/57429
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/44209
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/57430
@@ -48,6 +87,15 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/44207
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6522/index.m3u8
 
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/3994.m3u8
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/57430
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/44207
+
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/57431
 
@@ -57,6 +105,15 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/44206
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6445/index.m3u8
 
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/3993.m3u8
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/57431
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/44206
+
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/57432
 
@@ -65,6 +122,15 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/44205
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6517/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/3992.m3u8
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/57432
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/44205
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43964
@@ -87,6 +153,21 @@ http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71345.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71325.m3u8
 
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/353.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/725247.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/268855.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/43964
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/19270
+
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60023
 
@@ -101,6 +182,24 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60026
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19158/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/728118.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/273580.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/60023
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/60024
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/60025
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/60026
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16571
@@ -117,6 +216,21 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/59265
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/276918.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16571
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/58925
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16563
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/59265
+
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16559
 
@@ -126,11 +240,32 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/58924
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9334/index.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/276918.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16559
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/58924
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="Football", beIN Sports 3 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6821/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="Football", beIN Sports 3 (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/39557.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="Football", beIN Sports 3 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/785856.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="Football", beIN Sports 3 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/785855.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="Football", beIN Sports 3 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/785854.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="Football", beIN Sports 3 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/785853.m3u8
 
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" group-title="Football", Arena Sport 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7263/index.m3u8
@@ -138,14 +273,29 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7263/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" group-title="Football", Arena Sport 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7329/index.m3u8
 
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" group-title="Football", Arena Sport 1 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/852037.m3u8
+
 #EXTINF:-1 tvg-id="Setanta.LT.lt" group-title="Football", Setanta Sports UA (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/272/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta.LT.lt" group-title="Football", Setanta Sports UA (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/15183/index.m3u8
 
+#EXTINF:-1 tvg-id="Setanta.LT.lt" group-title="Football", Setanta Sports UA (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/706605.m3u8
+
+#EXTINF:-1 tvg-id="Setanta.LT.lt" group-title="Football", Setanta Sports UA (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/840863.m3u8
+
 #EXTINF:-1 tvg-id="[VIASPOH].V.Sport.Premium.HD.se" group-title="Football", V Sport Premium (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/12079/index.m3u8
+
+#EXTINF:-1 tvg-id="[VIASPOH].V.Sport.Premium.HD.se" group-title="Football", V Sport Premium (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/286747.m3u8
+
+#EXTINF:-1 tvg-id="[VIASPOH].V.Sport.Premium.HD.se" group-title="Football", V Sport Premium (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/318.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60190
@@ -162,6 +312,18 @@ http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71936.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/1015944.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/919.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/268983.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/60190
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/44044
+
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60192
 
@@ -174,6 +336,18 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19155/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71935.m3u8
 
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/932.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/268982.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/60192
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/44043
+
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7322/index.m3u8
 
@@ -182,6 +356,9 @@ http://pulsetvpro.cc/live/hazel123/hazel123/915.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71989.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/915.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7323/index.m3u8
@@ -192,11 +369,23 @@ http://pulsetvpro.cc/live/hazel123/hazel123/914.m3u8
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71988.m3u8
 
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/914.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/58918
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16566
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/276933.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/58918
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16566
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16552
@@ -213,6 +402,15 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6565/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2505/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/856217.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16552
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/43128
+
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16551
 
@@ -221,6 +419,12 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43126
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2506/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16551
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/43126
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16550
@@ -231,6 +435,12 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43124
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6564/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16550
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/43124
+
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16549
 
@@ -239,6 +449,12 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/57420
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19054/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/16549
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (*)
+http://etvhosts.site:55337/MoeandRae/4u3stND82r/57420
 
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19056/index.m3u8
@@ -255,6 +471,18 @@ http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/325564.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/325567.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/304097.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/303876.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/303875.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/303636.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19061/index.m3u8
 
@@ -266,3 +494,15 @@ http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/325588.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/325563.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/304096.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/303874.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/303873.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESPN", ESPN 2 (3)
+http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/303634.m3u8

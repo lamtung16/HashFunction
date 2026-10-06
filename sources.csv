@@ -3,3 +3,5 @@ backup,http://moilist.ottolok.net,,FX8YANKAXDBBEM,{host}/iptv/{password}/{channe
 etvhosts,http://etvhosts.site:55337,VZ0SyNWWsR,z9byB7Ys84,{host}/{username}/{password}/{channel_id}
 1,http://pulsetvpro.cc,hazel123,hazel123,{host}/live/{username}/{password}/{channel_id}.m3u8
 2,http://pixtv.org,334CC37783AFAF0,lVun8e420u,{host}/live/{username}/{password}/{channel_id}.m3u8
+3,http://rockstartv.show:80,antmoore422@yahoo.com,7048555835,{host}/live/{username}/{password}/{channel_id}.m3u8
+*,http://etvhosts.site:55337,MoeandRae,4u3stND82r,{host}/{username}/{password}/{channel_id}
