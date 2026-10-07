@@ -12,6 +12,12 @@ http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71954.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/316492.m3u8
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/841.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/268872.m3u8
+
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/43978
 
@@ -21,8 +27,14 @@ http://pulsetvpro.cc/live/hazel123/hazel123/328632.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/1182987.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/328632.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/59174
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/318045.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/59174
@@ -123,6 +135,9 @@ http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71345.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71325.m3u8
 
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/353.m3u8
+
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/43964
 
@@ -174,6 +189,9 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/59265
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/16571
 
@@ -194,6 +212,9 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/58924
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9334/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/276906.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/16559
@@ -284,6 +305,9 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/58918
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16566
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/276933.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/58918

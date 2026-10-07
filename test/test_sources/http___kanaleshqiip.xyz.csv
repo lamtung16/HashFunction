@@ -1,8 +1,8 @@
 host,username,password,status,created_at,exp_date,active_cons,max_connections
-http://kanaleshqiip.xyz,Abdullah,8875230f91,Active,2026-02-26 23:00:00,2027-02-26 23:00:00,0.0,1.0
-http://kanaleshqiip.xyz,625651740c13,654eda5ca8,Active,2025-11-02 23:00:00,2026-11-02 23:00:00,0.0,1.0
-http://kanaleshqiip.xyz,34c1a905e6f7,12b67373d0,Active,2026-01-20 23:00:00,2027-01-20 23:00:00,0.0,1.0
 http://kanaleshqiip.xyz,1cc8d6078fe2,f538f32cd6,Active,2026-03-17 23:00:00,2027-03-17 23:00:00,0.0,1.0
-http://kanaleshqiip.xyz,22b1e2ba862f,ebb0fb97c5,Active,2026-07-18 22:00:00,2027-01-18 23:00:00,0.0,1.0
-http://kanaleshqiip.xyz,56b59dccc63a,ad2b50b910,Active,2026-07-02 22:00:00,2026-10-08 22:00:00,1.0,1.0
+http://kanaleshqiip.xyz,Abdullah,8875230f91,Active,2026-02-26 23:00:00,2027-02-26 23:00:00,0.0,1.0
 http://kanaleshqiip.xyz,4daf29513805,1283cf2b70,Active,2026-02-16 23:00:00,2027-02-18 23:00:00,1.0,1.0
+http://kanaleshqiip.xyz,34c1a905e6f7,12b67373d0,Active,2026-01-20 23:00:00,2027-01-20 23:00:00,0.0,1.0
+http://kanaleshqiip.xyz,22b1e2ba862f,ebb0fb97c5,Active,2026-07-18 22:00:00,2027-01-18 23:00:00,0.0,1.0
+http://kanaleshqiip.xyz,625651740c13,654eda5ca8,Active,2025-11-02 23:00:00,2026-11-02 23:00:00,0.0,1.0
+http://kanaleshqiip.xyz,56b59dccc63a,ad2b50b910,Active,2026-07-02 22:00:00,2026-10-08 22:00:00,1.0,1.0
