@@ -9,14 +9,8 @@ http://pulsetvpro.cc/live/hazel123/hazel123/841.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71954.m3u8
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
-http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/316492.m3u8
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
 http://kwick.cc:80/live/Michelle1/Michelle1/841.m3u8
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
-http://kwick.cc:80/live/Michelle1/Michelle1/268872.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/43978
@@ -117,23 +111,14 @@ http://etvhosts.site:55337/MoeandRae/4u3stND82r/44205
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43964
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
-http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/19270
-
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31124/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71345.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
-http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71325.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
 http://kwick.cc:80/live/Michelle1/Michelle1/353.m3u8
@@ -203,9 +188,6 @@ http://etvhosts.site:55337/MoeandRae/4u3stND82r/16563
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
 http://etvhosts.site:55337/MoeandRae/4u3stND82r/59265
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (e)
-http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/16559
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/58924
