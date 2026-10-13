@@ -129,6 +129,27 @@ http://etvhosts.site:55337/v0wc5he26K/WAtzC0HdSu/43964
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (*)
 http://etvhosts.site:55337/v0wc5he26K/WAtzC0HdSu/19270
 
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (e)
+http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/26441
+
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31103/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (1)
+http://pulsetvpro.cc/live/hazel123/hazel123/268861.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (1)
+http://pulsetvpro.cc/live/hazel123/hazel123/3171.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/268861.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (3)
+http://kwick.cc:80/live/Michelle1/Michelle1/3171.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (*)
+http://etvhosts.site:55337/v0wc5he26K/WAtzC0HdSu/26441
+
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" group-title="Football", Sky Sport PL (DE) (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/5042/index.m3u8
 
