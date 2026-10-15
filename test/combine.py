@@ -5,11 +5,8 @@ df = pd.read_csv("output.csv")
 # 2. Sort the dataframe by the "host" column
 df_sorted = df.sort_values(by="host")
 
-# 3. Filter out rows where status != "Active" AND drop rows with missing hosts
-df_filtered = df_sorted[df_sorted["status"] == "Active"].dropna(subset=["host"])
-
 # 4. Group by host and save each group into its own <host>.csv file
-for host, group in df_filtered.groupby("host"):
+for host, group in df_sorted.groupby("host"):
     safe_host = str(host).strip()
     
     # Skip if host name is empty or literal 'nan'
