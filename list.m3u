@@ -15,6 +15,12 @@ http://pulsetvpro.cc/live/hazel123/hazel123/841.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/841.m3u8
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
+http://phantomzoo.online:80/live/Carl/carl/841.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
+http://phantomzoo.online:80/live/Carl/carl/268872.m3u8
+
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/43978
 
@@ -30,11 +36,17 @@ http://pulsetvpro.cc/live/hazel123/hazel123/328632.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/328632.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (3)
+http://phantomzoo.online:80/live/Carl/carl/328632.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (e)
 http://etvhosts.site:55337/gotchabeats3/zzjamon89/59174
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/318045.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
+http://phantomzoo.online:80/live/Carl/carl/318045.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/59174
@@ -183,8 +195,23 @@ http://etvhosts.site:55337/gotchabeats3/zzjamon89/43964
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
 
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
+http://pulsetvpro.cc/live/hazel123/hazel123/354.m3u8
+
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/353.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
+http://kwick.cc:80/live/Michelle1/Michelle1/354.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
+http://phantomzoo.online:80/live/Carl/carl/353.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
+http://phantomzoo.online:80/live/Carl/carl/354.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
+http://phantomzoo.online:80/live/Carl/carl/268855.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/43964
@@ -207,14 +234,11 @@ http://etvhosts.site:55337/gotchabeats3/zzjamon89/26441
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/268861.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (1)
-http://pulsetvpro.cc/live/hazel123/hazel123/3171.m3u8
-
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/268861.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/3171.m3u8
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (3)
+http://phantomzoo.online:80/live/Carl/carl/268861.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/26441

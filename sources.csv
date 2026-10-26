@@ -4,5 +4,6 @@ etvhosts,http://etvhosts.site:55337,gotchabeats3,zzjamon89,{host}/{username}/{pa
 kstv,http://kstv.us:8080,YuQAe1ZjWg,5230880594,{host}/live/{username}/{password}/{channel_id}.m3u8
 1,http://pulsetvpro.cc,hazel123,hazel123,{host}/live/{username}/{password}/{channel_id}.m3u8
 2,http://kwick.cc:80,"Michelle1","Michelle1",{host}/live/{username}/{password}/{channel_id}.m3u8
+3,http://phantomzoo.online:80,Carl,carl,{host}/live/{username}/{password}/{channel_id}.m3u8
 *etvhosts,http://etvhosts.site:55337,Palmaceia1965,Raf748oZ8w,{host}/{username}/{password}/{channel_id}
 !kstv,http://kstv.us:8080,7bqebUu0P,9596793188,{host}/live/{username}/{password}/{channel_id}.m3u8
