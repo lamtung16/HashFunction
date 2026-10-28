@@ -5,6 +5,6 @@ kstv,http://kstv.us:8080,YuQAe1ZjWg,5230880594,{host}/live/{username}/{password}
 2,http://kwick.cc:80,"Michelle1","Michelle1",{host}/live/{username}/{password}/{channel_id}.m3u8
 3,http://phantomzoo.online:80,Carl,carl,{host}/live/{username}/{password}/{channel_id}.m3u8
 s,http://tkiptv.net:80,,00:1A:79:6d:5f:fe,{host}/play/live.php?mac={password}&stream={channel_id}&extension=ts
-r,http://pro.8k-infinity.site:80,,00:1A:79:38:E9:AB,{host}/play/live.php?mac={password}&stream={channel_id}&extension=ts
+4,http://iptvgo.cc:80,Vargas,723950175,{host}/live/{username}/{password}/{channel_id}.m3u8
 *etvhosts,http://etvhosts.site:55337,Palmaceia1965,Raf748oZ8w,{host}/{username}/{password}/{channel_id}
 !kstv,http://kstv.us:8080,7bqebUu0P,9596793188,{host}/live/{username}/{password}/{channel_id}.m3u8
