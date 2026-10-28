@@ -8,3 +8,4 @@ s,http://tkiptv.net:80,,00:1A:79:6d:5f:fe,{host}/play/live.php?mac={password}&st
 4,http://iptvgo.cc:80,Vargas,723950175,{host}/live/{username}/{password}/{channel_id}.m3u8
 *etvhosts,http://etvhosts.site:55337,Palmaceia1965,Raf748oZ8w,{host}/{username}/{password}/{channel_id}
 !kstv,http://kstv.us:8080,7bqebUu0P,9596793188,{host}/live/{username}/{password}/{channel_id}.m3u8
+iptvorg,,,,{channel_id}
