@@ -21,6 +21,15 @@ http://phantomzoo.online:80/live/Carl/carl/268872.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328794&extension=ts
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=2162616&extension=ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=2161797&extension=ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=325092&extension=ts
+
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/43978
 
@@ -39,6 +48,15 @@ http://kwick.cc:80/live/Michelle1/Michelle1/328632.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (3)
 http://phantomzoo.online:80/live/Carl/carl/328632.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1536410&extension=ts
+
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=2161796&extension=ts
+
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1476120&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/318045.m3u8
 
@@ -51,6 +69,18 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243871&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243870&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1527629&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1527628&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1290306&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=706975&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/59174
 
@@ -62,6 +92,9 @@ http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40651.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345330&extension=ts
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1239048&extension=ts
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57428
@@ -87,6 +120,9 @@ http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40650.m3u8
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345329&extension=ts
 
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1239040&extension=ts
+
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57429
 
@@ -110,6 +146,9 @@ http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40649.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345328&extension=ts
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1239032&extension=ts
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57430
@@ -135,6 +174,9 @@ http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40648.m3u8
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345327&extension=ts
 
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1239023&extension=ts
+
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57431
 
@@ -158,6 +200,9 @@ http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40647.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345326&extension=ts
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1239014&extension=ts
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57432
@@ -200,6 +245,21 @@ http://phantomzoo.online:80/live/Carl/carl/268855.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328966&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=2161759&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=610437&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=325924&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=325796&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=325884&extension=ts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/43964
@@ -270,6 +330,21 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215920&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1544239&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1527639&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1527638&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=621634&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1527598&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16571
 
@@ -299,6 +374,18 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215919&extension
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215918&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1527637&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1527636&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1290314&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (r)
+http://pro.8k-infinity.site:80/play/live.php?mac=00:1A:79:38:E9:AB&stream=1290293&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16559
