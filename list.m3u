@@ -609,3 +609,12 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Extra",Setanta Sports 1 Eurasia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
+
+#EXTINF:-1 group-title="VTV",-1 tvg-id="VTV1.vn@HD",VTV1 HD (720p)
+https://dethich.pw/vtv1/index.m3u8
+
+#EXTINF:-1 group-title="VTV",-1 tvg-id="VTV3.vn@HD",VTV3 HD (720p)
+https://dethich.pw/vtv3/index.m3u8
+
+#EXTINF:-1 group-title="VTV",-1 tvg-id="VTV6.vn@HD",VTV6 (720p)
+https://dethich.pw/vtv6/index.m3u8

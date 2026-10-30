@@ -53,25 +53,6 @@ with open("list.m3u", "w", encoding="utf-8") as f:
 import re
 import urllib.request
 
-# Configuration
-SOURCE_URL = "https://iptv-org.github.io/iptv/categories/sports.m3u"
-LOCAL_FILE = "list.m3u"
-TARGET_CHANNELS = [
-    "Canal+ Sport SK", 
-    "Canal+ Sport 2 SK",
-    "Canal+ Sport 3 SK",
-    "Canal+ Sport 4 SK",
-    "Canal+ Sport 5 SK",
-    "Canal+ Sport 6 SK",
-    "Canal+ Sport 7 SK",
-    "Canal+ Sport 8 SK",
-    "ESPN (Brazil) (1080p)",
-    "ESPN Latin America (1080p)",
-    "Setanta Sports 1 Eurasia (1080p)",
-]
-NEW_GROUP_TITLE = "Extra"
-
-
 def fetch_remote_playlist(url):
     """Downloads and decodes the remote M3U file."""
     print(f"Downloading playlist from {url}...")
@@ -141,7 +122,40 @@ def append_to_local_playlist(filename, entries):
         for entry in entries:
             f.write("\n" + entry + "\n")
 
+SOURCE_URL = "https://iptv-org.github.io/iptv/categories/sports.m3u"
+LOCAL_FILE = "list.m3u"
+TARGET_CHANNELS = [
+    "Canal+ Sport SK", 
+    "Canal+ Sport 2 SK",
+    "Canal+ Sport 3 SK",
+    "Canal+ Sport 4 SK",
+    "Canal+ Sport 5 SK",
+    "Canal+ Sport 6 SK",
+    "Canal+ Sport 7 SK",
+    "Canal+ Sport 8 SK",
+    "ESPN (Brazil) (1080p)",
+    "ESPN Latin America (1080p)",
+    "Setanta Sports 1 Eurasia (1080p)",
+]
+NEW_GROUP_TITLE = "Extra"
+try:
+    playlist_content = fetch_remote_playlist(SOURCE_URL)
+    matched_entries = parse_and_extract_channels(
+        playlist_content, TARGET_CHANNELS, NEW_GROUP_TITLE
+    )
+    append_to_local_playlist(LOCAL_FILE, matched_entries)
+except Exception as e:
+    print(f"An error occurred: {e}")
 
+
+SOURCE_URL = "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/vn.m3u"
+LOCAL_FILE = "list.m3u"
+TARGET_CHANNELS = [
+    "VTV1 HD (720p)",
+    "VTV3 HD (720p)",
+    "VTV6 (720p)"
+]
+NEW_GROUP_TITLE = "VTV"
 try:
     playlist_content = fetch_remote_playlist(SOURCE_URL)
     matched_entries = parse_and_extract_channels(
