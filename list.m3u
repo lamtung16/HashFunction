@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/22467.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22467.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15940.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15940.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/841.m3u8
@@ -64,10 +64,10 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243870&extension
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/59174
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15929.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15929.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40651.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40651.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345330&extension=ts
@@ -88,10 +88,10 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/40651.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6521/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15928.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15928.m3u8
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40650.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40650.m3u8
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345329&extension=ts
@@ -112,10 +112,10 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/40650.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6492/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15927.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15927.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40649.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40649.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345328&extension=ts
@@ -136,10 +136,10 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/40649.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6522/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15926.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15926.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40648.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40648.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345327&extension=ts
@@ -160,10 +160,10 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/40648.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6445/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15925.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15925.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/40647.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40647.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345326&extension=ts
@@ -184,7 +184,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/40647.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6517/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15905.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15905.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
@@ -232,7 +232,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/15905.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/23235.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/23235.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/268861.m3u8
@@ -256,7 +256,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/23235.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/48443.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48443.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=85727&extension=ts
@@ -280,7 +280,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/48443.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19158/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47868.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
@@ -310,7 +310,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47868.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47871.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47871.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/276906.m3u8
@@ -334,7 +334,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47871.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9334/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15951.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15951.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328819&extension=ts
@@ -352,7 +352,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/15951.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15950.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15950.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328818&extension=ts
@@ -370,10 +370,10 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/15950.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19155/index.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/22526.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22526.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15948.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15948.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/915.m3u8
@@ -391,10 +391,10 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/15948.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7322/index.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/22525.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22525.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15947.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15947.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/914.m3u8
@@ -412,7 +412,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/15947.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7323/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47863.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47863.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/276933.m3u8
@@ -433,7 +433,7 @@ http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16566
 http://kstv.us:8080/live/7bqebUu0P/9596793188/47863.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47850.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47850.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373826&extension=ts
@@ -460,7 +460,7 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6565/index.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2505/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47851.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47851.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373823&extension=ts
@@ -481,7 +481,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47851.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2506/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47852.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47852.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373821&extension=ts
@@ -502,7 +502,7 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47852.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6564/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47853.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47853.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373819&extension=ts
@@ -523,13 +523,13 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47853.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19054/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/46445.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/46445.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/46447.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/46447.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47111.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47111.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/280197.m3u8
@@ -556,10 +556,10 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19056/index.m3u8
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19060/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/46446.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/46446.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47099.m3u8
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47099.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/280198.m3u8

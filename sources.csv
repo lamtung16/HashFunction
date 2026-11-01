@@ -1,6 +1,6 @@
 server_id,host,username,password,url_format
 backup,http://moilist.ottolok.net,,FX8YANKAXDBBEM,{host}/iptv/{password}/{channel_id}/index.m3u8
-kstv,http://kstv.us:8080,YuQAe1ZjWg,5230880594,{host}/live/{username}/{password}/{channel_id}.m3u8
+kstv,http://kstv.us:8080,FuRyR1yH1d,1449188108,{host}/live/{username}/{password}/{channel_id}.m3u8
 1,http://pulsetvpro.cc,hazel123,hazel123,{host}/live/{username}/{password}/{channel_id}.m3u8
 2,http://kwick.cc:80,"Michelle1","Michelle1",{host}/live/{username}/{password}/{channel_id}.m3u8
 3,http://phantomzoo.online:80,Carl,carl,{host}/live/{username}/{password}/{channel_id}.m3u8
