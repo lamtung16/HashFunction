@@ -618,3 +618,9 @@ https://dethich.pw/vtv3/index.m3u8
 
 #EXTINF:-1 group-title="VTV",-1 tvg-id="VTV6.vn@HD",VTV6 (720p)
 https://dethich.pw/vtv6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premio Stream" tvg-logo="" group-title="Temp", Temp 1
+https://admin2.formaturamaxi.com.br/prem.m3u8|referer=https://roxiestreams.info/
+
+#EXTINF:-1 tvg-id="" tvg-name="Premio Stream" tvg-logo="" group-title="Temp", Temp 2
+https://tedesco.formaturamaxi.com.br/now.m3u8|referer=https://roxiestreams.info/
