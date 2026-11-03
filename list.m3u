@@ -432,6 +432,21 @@ http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16566
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/47863.m3u8
 
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="General", Premier Sport 1 (k)
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47858.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="General", Premier Sport 1 (!)
+http://kstv.us:8080/live/7bqebUu0P/9596793188/47858.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="General", Premier Sport 1 (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2160/index.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" group-title="General", Premier Sport 2 (k)
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47859.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" group-title="General", Premier Sport 2 (!)
+http://kstv.us:8080/live/7bqebUu0P/9596793188/47859.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47850.m3u8
 
@@ -619,8 +634,11 @@ https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1 group-title="VTV",-1 tvg-id="VTV6.vn@HD",VTV6 (720p)
 https://dethich.pw/vtv6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Premio Stream" tvg-logo="" group-title="Temp", Temp 1
-https://admin2.formaturamaxi.com.br/prem.m3u8|referer=https://roxiestreams.info/
 
-#EXTINF:-1 tvg-id="" tvg-name="Premio Stream" tvg-logo="" group-title="Temp", Temp 2
-https://tedesco.formaturamaxi.com.br/now.m3u8|referer=https://roxiestreams.info/
+#EXTINF:-1 tvg-id="prem.vlc" tvg-name="Prem Stream (VLC)" tvg-logo="" group-title="Live TV",Prem Stream (VLC)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://admin2.formaturamaxi.com.br/prem.m3u8
+
+#EXTINF:-1 tvg-id="prem.tivimate" tvg-name="Prem Stream (TiviMate)" tvg-logo="" group-title="Live TV",Prem Stream (TiviMate)
+https://admin2.formaturamaxi.com.br/prem.m3u8|Referer=https://roxiestreams.info/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
