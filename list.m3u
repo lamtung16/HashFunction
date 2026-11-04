@@ -27,6 +27,15 @@ http://iptvgo.cc:80/live/Vargas/723950175/841.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (4)
 http://iptvgo.cc:80/live/Vargas/723950175/268872.m3u8
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71954.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/316492.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/316476.m3u8
+
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/43978
 
@@ -48,6 +57,9 @@ http://phantomzoo.online:80/live/Carl/carl/328632.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (4)
 http://iptvgo.cc:80/live/Vargas/723950175/328632.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1182987.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/318045.m3u8
 
@@ -60,6 +72,12 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243871&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243870&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/664451.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/664452.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/59174
 
@@ -71,6 +89,9 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40651.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345330&extension=ts
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/42917.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57428
@@ -96,6 +117,9 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40650.m3u8
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345329&extension=ts
 
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/30356.m3u8
+
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57429
 
@@ -119,6 +143,9 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40649.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345328&extension=ts
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/78716.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57430
@@ -144,6 +171,9 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40648.m3u8
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345327&extension=ts
 
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/30354.m3u8
+
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57431
 
@@ -167,6 +197,9 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40647.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345326&extension=ts
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/42913.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/57432
@@ -219,6 +252,12 @@ http://iptvgo.cc:80/live/Vargas/723950175/354.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (4)
 http://iptvgo.cc:80/live/Vargas/723950175/268855.m3u8
 
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71345.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71325.m3u8
+
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/43964
 
@@ -246,6 +285,9 @@ http://phantomzoo.online:80/live/Carl/carl/268861.m3u8
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (4)
 http://iptvgo.cc:80/live/Vargas/723950175/268861.m3u8
 
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/325600.m3u8
+
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/26441
 
@@ -260,6 +302,18 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48443.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=85727&extension=ts
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/763969.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/942694.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1030807.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/151547.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/60023
@@ -291,6 +345,9 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215920&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1281430.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16571
 
@@ -321,6 +378,15 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215919&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215918&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1015489.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/17285.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/980433.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16559
 
@@ -339,6 +405,9 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15951.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328819&extension=ts
 
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71936.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/60190
 
@@ -356,6 +425,9 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15950.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328818&extension=ts
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71935.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/60192
@@ -381,6 +453,9 @@ http://pulsetvpro.cc/live/hazel123/hazel123/915.m3u8
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328813&extension=ts
 
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71989.m3u8
+
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/22526.m3u8
 
@@ -401,6 +476,9 @@ http://pulsetvpro.cc/live/hazel123/hazel123/914.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328812&extension=ts
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71988.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/22525.m3u8
@@ -423,6 +501,18 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215907&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215906&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/17291.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/362589.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/973137.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/973139.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/58918
 
@@ -432,21 +522,6 @@ http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16566
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/47863.m3u8
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="General", Premier Sport 1 (k)
-http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47858.m3u8
-
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="General", Premier Sport 1 (!)
-http://kstv.us:8080/live/7bqebUu0P/9596793188/47858.m3u8
-
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="General", Premier Sport 1 (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2160/index.m3u8
-
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" group-title="General", Premier Sport 2 (k)
-http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47859.m3u8
-
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" group-title="General", Premier Sport 2 (!)
-http://kstv.us:8080/live/7bqebUu0P/9596793188/47859.m3u8
-
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47850.m3u8
 
@@ -455,6 +530,12 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373826&extension
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373825&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/17281.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/348297.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16552
@@ -483,6 +564,12 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373823&extension
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373822&extension=ts
 
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/980406.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/348298.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16551
 
@@ -504,6 +591,12 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373821&extension
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373820&extension=ts
 
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/980407.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/17279.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16550
 
@@ -524,6 +617,12 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373819&extension
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373818&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/311556.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/311555.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (*)
 http://etvhosts.site:55337/Palmaceia1965/Raf748oZ8w/16549
@@ -555,6 +654,15 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=155770&extension
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=220494&extension=ts
 
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1028464.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1028466.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1028463.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/46445.m3u8
 
@@ -581,6 +689,12 @@ http://pulsetvpro.cc/live/hazel123/hazel123/280198.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=155768&extension=ts
+
+#EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1028465.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/76317.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/46446.m3u8
@@ -633,12 +747,3 @@ https://dethich.pw/vtv3/index.m3u8
 
 #EXTINF:-1 group-title="VTV",-1 tvg-id="VTV6.vn@HD",VTV6 (720p)
 https://dethich.pw/vtv6/index.m3u8
-
-
-#EXTINF:-1 tvg-id="prem.vlc" tvg-name="Prem Stream (VLC)" tvg-logo="" group-title="Live TV",Prem Stream (VLC)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://admin2.formaturamaxi.com.br/prem.m3u8
-
-#EXTINF:-1 tvg-id="prem.tivimate" tvg-name="Prem Stream (TiviMate)" tvg-logo="" group-title="Live TV",Prem Stream (TiviMate)
-https://admin2.formaturamaxi.com.br/prem.m3u8|Referer=https://roxiestreams.info/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
