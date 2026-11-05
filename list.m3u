@@ -270,6 +270,30 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/15905.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (k)
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/23248.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (1)
+http://pulsetvpro.cc/live/hazel123/hazel123/830263.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (2)
+http://kwick.cc:80/live/Michelle1/Michelle1/830263.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (3)
+http://phantomzoo.online:80/live/Carl/carl/830263.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (s)
+http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328653&extension=ts
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (4)
+http://iptvgo.cc:80/live/Vargas/723950175/830263.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71428.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Football", Telemundo (!)
+http://kstv.us:8080/live/7bqebUu0P/9596793188/23248.m3u8
+
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/23235.m3u8
 
