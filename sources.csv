@@ -1,6 +1,6 @@
 server_id,host,username,password,url_format
 kstv,http://kstv.us:8080,FuRyR1yH1d,1449188108,{host}/live/{username}/{password}/{channel_id}.m3u8
-1,http://infinitavision.online:80,ThreeoTV128,dtM8GtyhWQ,{host}/live/{username}/{password}/{channel_id}.m3u8
+1,http://infinitavision.online:80,johanrivera1,edZzz3acfW,{host}/live/{username}/{password}/{channel_id}.m3u8
 2,http://kwick.cc:80,andreawillis,0574218963,{host}/live/{username}/{password}/{channel_id}.m3u8
 s,http://tkiptv.net:80,,00:1A:79:6d:5f:fe,{host}/play/live.php?mac={password}&stream={channel_id}&extension=ts
 backup,http://moilist.ottolok.net,,FX8YANKAXDBBEM,{host}/iptv/{password}/{channel_id}/index.m3u8
