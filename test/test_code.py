@@ -5,8 +5,8 @@ from urllib.parse import quote
 import sys
 
 if len(sys.argv) > 1:
-    INPUT_FILE = f"{sys.argv[1]}.csv"
-    OUTPUT_FILE = f"{sys.argv[2]}.csv"
+    INPUT_FILE = f"{sys.argv[1]}"
+    OUTPUT_FILE = f"{sys.argv[2]}"
 
 HEADERS = {
     "User-Agent": "Tivimate 5.1.6"

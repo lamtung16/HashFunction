@@ -1,31 +1,43 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
-http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22467.m3u8
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15940.m3u8
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
+http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22467.m3u8
+
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595919.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/841.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
-http://kwick.cc:80/live/andreawillis/0574218963/841.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71954.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/316492.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/316476.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328794&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (!)
-http://kstv.us:8080/live/7bqebUu0P/9596793188/22467.m3u8
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/15940.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (2)
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (!)
+http://kstv.us:8080/live/7bqebUu0P/9596793188/22467.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (1)
 http://kwick.cc:80/live/andreawillis/0574218963/328632.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (2)
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (1)
 http://kwick.cc:80/live/andreawillis/0574218963/318045.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/664451.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/498032.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243871&extension=ts
@@ -40,10 +52,10 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15929.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40651.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/213993.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/3996.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/3996.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/42917.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345330&extension=ts
@@ -64,10 +76,10 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15928.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40650.m3u8
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/213989.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/3995.m3u8
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/3995.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/30356.m3u8
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345329&extension=ts
@@ -88,10 +100,10 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15927.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40649.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/213990.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/3994.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/3994.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/78716.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345328&extension=ts
@@ -112,10 +124,10 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15926.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40648.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/213991.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/3993.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/3993.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/30354.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345327&extension=ts
@@ -136,10 +148,10 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15925.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/40647.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/213992.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/3992.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/3992.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/42913.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345326&extension=ts
@@ -157,16 +169,16 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/40647.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15905.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595712.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595713.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
 http://kwick.cc:80/live/andreawillis/0574218963/353.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
 http://kwick.cc:80/live/andreawillis/0574218963/354.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71345.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71325.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328966&extension=ts
@@ -187,10 +199,13 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/23248.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/23235.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595921.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/268861.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (2)
-http://kwick.cc:80/live/andreawillis/0574218963/268861.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/325600.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/200868.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="Football", TUDN (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31103/index.m3u8
@@ -201,8 +216,23 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/23235.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48443.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/155620.m3u8
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1030807.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/151547.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/942694.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/763969.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/390105.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/141393.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=85727&extension=ts
@@ -217,10 +247,16 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/48443.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47868.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/439278.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/276918.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (2)
-http://kwick.cc:80/live/andreawillis/0574218963/276918.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1281430.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/17286.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/348315.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
@@ -238,16 +274,16 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47868.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47871.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/439270.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/592042.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/205622.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/276906.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (2)
-http://kwick.cc:80/live/andreawillis/0574218963/276906.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1015489.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/17285.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/980433.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215919&extension=ts
@@ -265,10 +301,13 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47871.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15951.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595816.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/919.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (2)
-http://kwick.cc:80/live/andreawillis/0574218963/919.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71936.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1015944.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328819&extension=ts
@@ -283,10 +322,10 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/15951.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15950.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595817.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/932.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (2)
-http://kwick.cc:80/live/andreawillis/0574218963/932.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71935.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328818&extension=ts
@@ -304,10 +343,10 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22526.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15948.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595880.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/915.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/915.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71989.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328813&extension=ts
@@ -328,10 +367,10 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22525.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15947.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/595881.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/914.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/914.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71988.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328812&extension=ts
@@ -351,17 +390,11 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/51313.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48496.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412235.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1030794.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412237.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412238.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412243.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/68419.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31942/index.m3u8
@@ -381,17 +414,11 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/51314.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48497.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412244.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/764059.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412245.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412246.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412250.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/68418.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31943/index.m3u8
@@ -411,17 +438,11 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/51315.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48498.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412251.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/68422.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412252.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412253.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412257.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1030799.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31944/index.m3u8
@@ -441,17 +462,11 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/51316.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48499.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412258.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/764062.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412260.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412261.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412263.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1030801.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31945/index.m3u8
@@ -471,17 +486,11 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/51317.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48500.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412264.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/764064.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412265.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412266.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/412270.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1054413.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31946/index.m3u8
@@ -499,10 +508,13 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/48500.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47863.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/439294.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/276933.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (2)
-http://kwick.cc:80/live/andreawillis/0574218963/276933.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/17291.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/980426.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215907&extension=ts
@@ -517,16 +529,16 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47863.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47850.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/417210.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/195695.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (2)
 http://kwick.cc:80/live/andreawillis/0574218963/709378.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (2)
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (1)
 http://kwick.cc:80/live/andreawillis/0574218963/709377.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/17281.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/348297.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373826&extension=ts
@@ -550,16 +562,19 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47850.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47851.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/417209.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/195696.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (2)
 http://kwick.cc:80/live/andreawillis/0574218963/709376.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (2)
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (1)
 http://kwick.cc:80/live/andreawillis/0574218963/709375.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/980406.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/348298.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/17280.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373823&extension=ts
@@ -577,16 +592,19 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47851.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47852.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/417208.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/195697.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (2)
 http://kwick.cc:80/live/andreawillis/0574218963/709374.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (2)
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (1)
 http://kwick.cc:80/live/andreawillis/0574218963/709373.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/980407.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/17279.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/348299.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373821&extension=ts
@@ -602,6 +620,12 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/47852.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47853.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/311556.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/311555.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373819&extension=ts
@@ -625,10 +649,16 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/46447.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47111.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/591975.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/280197.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (2)
-http://kwick.cc:80/live/andreawillis/0574218963/280197.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1028464.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1028466.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1028463.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=155770&extension=ts
@@ -658,10 +688,13 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/46446.m3u8
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47099.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (1)
-http://infinitavision.online:80/live/johanrivera1/edZzz3acfW/591981.m3u8
+http://kwick.cc:80/live/andreawillis/0574218963/280198.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (2)
-http://kwick.cc:80/live/andreawillis/0574218963/280198.m3u8
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1028465.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (2)
+http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/76317.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=155768&extension=ts
