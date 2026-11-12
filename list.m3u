@@ -21,15 +21,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/316476.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328794&extension=ts
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=858523&extension=ts
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1972847&extension=ts
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=988078&extension=ts
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/15940.m3u8
 
@@ -38,9 +29,6 @@ http://kstv.us:8080/live/7bqebUu0P/9596793188/22467.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (1)
 http://kwick.cc:80/live/andreawillis/0574218963/328632.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=858522&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (1)
 http://kwick.cc:80/live/andreawillis/0574218963/318045.m3u8
@@ -57,21 +45,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243871&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243870&extension=ts
 
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312004&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312026&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312043&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=394549&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312186&extension=ts
-
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15929.m3u8
 
@@ -86,9 +59,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/42917.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345330&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=902070&extension=ts
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6521/index.m3u8
@@ -114,9 +84,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/30356.m3u8
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345329&extension=ts
 
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=902071&extension=ts
-
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis", TSN 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6492/index.m3u8
 
@@ -140,9 +107,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/78716.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345328&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=902072&extension=ts
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis", TSN 3 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6522/index.m3u8
@@ -168,9 +132,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/30354.m3u8
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345327&extension=ts
 
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=902073&extension=ts
-
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis", TSN 4 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6445/index.m3u8
 
@@ -194,9 +155,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/42913.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=345326&extension=ts
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=902074&extension=ts
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis", TSN 5 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6517/index.m3u8
@@ -224,12 +182,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71325.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328966&extension=ts
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=855449&extension=ts
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=855448&extension=ts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
@@ -285,24 +237,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/141393.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=85727&extension=ts
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959373&extension=ts
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959374&extension=ts
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959375&extension=ts
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959376&extension=ts
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=587359&extension=ts
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=587358&extension=ts
-
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19158/index.m3u8
 
@@ -329,24 +263,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215920&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312008&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311999&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312033&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312049&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=394553&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312176&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
@@ -375,21 +291,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215919&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215918&extension=ts
 
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312002&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312036&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312048&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=394557&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312177&extension=ts
-
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports PL (UK) (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9334/index.m3u8
 
@@ -411,9 +312,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1015944.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328819&extension=ts
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=858554&extension=ts
-
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN US (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19156/index.m3u8
 
@@ -431,9 +329,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71935.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328818&extension=ts
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=858552&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General", ESPN 2 US (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19155/index.m3u8
@@ -455,9 +350,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71989.m3u8
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328813&extension=ts
-
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=858547&extension=ts
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="General", Fox Sports 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7322/index.m3u8
@@ -483,9 +375,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/71988.m3u8
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328812&extension=ts
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=858555&extension=ts
-
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.2.HD.us2" group-title="General", Fox Sports 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7323/index.m3u8
 
@@ -506,21 +395,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1030794.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (2)
 http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/68419.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959337&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959338&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959339&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959340&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959341&extension=ts
 
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General", Sport TV1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31942/index.m3u8
@@ -546,18 +420,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/764059.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (2)
 http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/68418.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959342&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959343&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959344&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959345&extension=ts
-
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General", Sport TV2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31943/index.m3u8
 
@@ -581,18 +443,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/68422.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (2)
 http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1030799.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959346&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959347&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959348&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959349&extension=ts
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General", Sport TV3 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31944/index.m3u8
@@ -618,18 +468,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/764062.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (2)
 http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1030801.m3u8
 
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959350&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959351&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959352&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959353&extension=ts
-
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General", Sport TV4 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31945/index.m3u8
 
@@ -653,18 +491,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/764064.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (2)
 http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/1054413.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959354&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959355&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959356&extension=ts
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=959357&extension=ts
 
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General", Sport TV5 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31946/index.m3u8
@@ -696,18 +522,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215907&extension
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215906&extension=ts
 
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312028&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312050&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=870313&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1312185&extension=ts
-
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/47863.m3u8
 
@@ -731,30 +545,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373826&extension
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373825&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=894977&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174218&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174214&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311894&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174231&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174226&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311899&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174236&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.ie" group-title="General", TNT Sports 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6566/index.m3u8
@@ -792,30 +582,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373823&extension
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373822&extension=ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=894978&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174219&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174215&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311895&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174232&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174227&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311900&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174237&extension=ts
-
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.ie" group-title="General", TNT Sports 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2506/index.m3u8
 
@@ -846,30 +612,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373821&extension
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373820&extension=ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=894979&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174220&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174216&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311896&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174233&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174228&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311901&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174238&extension=ts
-
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.ie" group-title="General", TNT Sports 3 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6564/index.m3u8
 
@@ -890,30 +632,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373819&extension
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=373818&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=894980&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174221&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174217&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311897&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174234&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174229&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1311902&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=1174239&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="General", TNT Sports 4 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19054/index.m3u8
@@ -948,12 +666,6 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=155770&extension
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=220494&extension=ts
 
-#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=901433&extension=ts
-
-#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=901430&extension=ts
-
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN", ESPN (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19056/index.m3u8
 
@@ -986,9 +698,6 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/76317.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=155768&extension=ts
-
-#EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (m)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=901432&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN", ESPN 2 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19061/index.m3u8
