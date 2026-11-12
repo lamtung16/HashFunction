@@ -3,6 +3,7 @@ kstv,http://kstv.us:8080,FuRyR1yH1d,1449188108,{host}/live/{username}/{password}
 1,http://kwick.cc:80,andreawillis,0574218963,{host}/live/{username}/{password}/{channel_id}.m3u8
 2,http://vraniqi.org,41D7204A0236663,6fP90CwLr0,{host}/live/{username}/{password}/{channel_id}.m3u8
 s,http://tkiptv.net:80,,00:1A:79:6d:5f:fe,{host}/play/live.php?mac={password}&stream={channel_id}&extension=ts
+m,http://main.light-ott.net:80,,00:1A:79:C6:D9:58,{host}/play/live.php?mac={password}&stream={channel_id}&extension=ts
 backup,http://moilist.ottolok.net,,FX8YANKAXDBBEM,{host}/iptv/{password}/{channel_id}/index.m3u8
 !kstv,http://kstv.us:8080,7bqebUu0P,9596793188,{host}/live/{username}/{password}/{channel_id}.m3u8
 ,,,,
