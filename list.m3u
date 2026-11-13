@@ -21,6 +21,9 @@ http://vraniqi.org/live/41D7204A0236663/6fP90CwLr0/316476.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328794&extension=ts
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19136/index.m3u8
+
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/15940.m3u8
 
@@ -44,6 +47,12 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243871&extension
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243870&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6546/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/32013/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis", TSN 1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15929.m3u8
@@ -521,6 +530,9 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215907&extension
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215906&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (b)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9248/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (!)
 http://kstv.us:8080/live/7bqebUu0P/9596793188/47863.m3u8
