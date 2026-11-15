@@ -1,41 +1,41 @@
 host,username,password,status,created_at,exp_date,active_cons,max_connections
-http://kstv.us:8080,h7z2NejYf7,0859309752,Active,2020-09-27 00:00:00,,0.0,5.0
-http://kstv.us:8080,CQn4DaZ34P,1948509244,Active,2021-01-06 05:00:00,,0.0,5.0
-http://kstv.us:8080,Ewee1234,21642695609,Active,2023-05-05 07:00:00,,0.0,5.0
-http://kstv.us:8080,Jasierra79,64484332098,Active,2023-05-25 07:00:00,,0.0,5.0
-http://kstv.us:8080,FekJ1be7N7,6315885103,Active,2023-08-08 07:00:00,,0.0,5.0
-http://kstv.us:8080,brwW3RdtV2,49906209935,Active,2023-09-07 07:00:00,,0.0,5.0
-http://kstv.us:8080,pRFS4VCvRs,0623068498,Active,2019-08-23 04:00:00,,0.0,3.0
-http://kstv.us:8080,FuRyR1yH1d,1449188108,Active,2020-05-29 00:00:00,,0.0,3.0
-http://kstv.us:8080,ccsuBvAew4,Camila17,Disabled,2021-02-01 05:00:00,,0.0,3.0
-http://kstv.us:8080,PnQGm5CZE,pu2FgrBEy,Active,2021-03-30 07:00:00,,0.0,3.0
-http://kstv.us:8080,gxSnXAd4zY,29024295669,Active,2022-09-30 06:00:00,,0.0,3.0
-http://kstv.us:8080,qSkRZ4xSuV,1031036311,Active,2020-08-29 04:00:00,,0.0,1.0
-http://kstv.us:8080,mxrpam,4695171940,Active,2020-11-22 05:00:00,,0.0,1.0
-http://kstv.us:8080,VP8z3XVeQf,0252312553,Active,2020-12-12 05:00:00,,0.0,1.0
-http://kstv.us:8080,N4K06N9SDq,9432382212,Active,2020-12-31 05:00:00,,1.0,5.0
-http://kstv.us:8080,hhbilla,4813765766,Active,2021-03-24 04:00:00,,1.0,5.0
-http://kstv.us:8080,Phillipm,4128916970,Active,2023-08-04 07:00:00,,1.0,5.0
-http://kstv.us:8080,7bqebUu0P,9596793188,Active,2018-07-04 23:00:00,,1.0,3.0
-http://kstv.us:8080,7YRhKJqhE8,Sap10,Active,2020-07-28 04:00:00,,1.0,3.0
-http://kstv.us:8080,4eg9GYZghX,5145541481,Active,2020-09-11 04:00:00,,1.0,3.0
+http://kstv.us:8080,Jasierra79,64484332098,Active,2023-05-25 07:00:00,,1.0,5.0
+http://kstv.us:8080,FekJ1be7N7,6315885103,Active,2023-08-08 07:00:00,,1.0,5.0
+http://kstv.us:8080,yHUgCGGzt8,9586979574,Active,2019-11-21 05:00:00,,1.0,3.0
+http://kstv.us:8080,YCRKtStZ0B,98777777 ,Active,2022-08-19 04:00:00,,1.0,3.0
 http://kstv.us:8080,5TDgkg7YKp,6544141883,Active,2019-05-14 07:00:00,,1.0,1.0
-http://kstv.us:8080,fanman,7678987224,Active,2018-07-24 04:00:00,,2.0,5.0
-http://kstv.us:8080,gaT5kcT2AG,5879423066,Active,2020-08-03 04:00:00,,2.0,5.0
-http://kstv.us:8080,k69AYzZU2C,52619843812,Active,2022-05-17 04:00:00,,2.0,5.0
+http://kstv.us:8080,VP8z3XVeQf,0252312553,Active,2020-12-12 05:00:00,,1.0,1.0
+http://kstv.us:8080,N4K06N9SDq,9432382212,Active,2020-12-31 05:00:00,,2.0,5.0
+http://kstv.us:8080,CQn4DaZ34P,1948509244,Active,2021-01-06 05:00:00,,2.0,5.0
 http://kstv.us:8080,Bobo2023,8013895614,Active,2023-10-07 07:00:00,,2.0,5.0
-http://kstv.us:8080,yHUgCGGzt8,9586979574,Active,2019-11-21 05:00:00,,2.0,3.0
-http://kstv.us:8080,YCRKtStZ0B,98777777 ,Active,2022-08-19 04:00:00,,2.0,3.0
-http://kstv.us:8080,Ramsrule99,0692729567,Active,2019-09-14 04:00:00,,2.0,1.0
-http://kstv.us:8080,Ta4wc3EEJX,7504699300,Active,2021-05-20 07:00:00,,3.0,5.0
-http://kstv.us:8080,na4BM3Mrc,5406787236,Active,2018-07-07 23:00:00,,3.0,4.0
-http://kstv.us:8080,aHWtXF147J,0468300703,Active,2021-01-07 05:00:00,,3.0,3.0
+http://kstv.us:8080,7bqebUu0P,9596793188,Active,2018-07-04 23:00:00,,2.0,3.0
+http://kstv.us:8080,7YRhKJqhE8,Sap10,Active,2020-07-28 04:00:00,,2.0,3.0
+http://kstv.us:8080,4eg9GYZghX,5145541481,Active,2020-09-11 04:00:00,,2.0,3.0
+http://kstv.us:8080,aHWtXF147J,0468300703,Active,2021-01-07 05:00:00,,2.0,3.0
+http://kstv.us:8080,PnQGm5CZE,pu2FgrBEy,Active,2021-03-30 07:00:00,,2.0,3.0
+http://kstv.us:8080,fanman,7678987224,Active,2018-07-24 04:00:00,,3.0,5.0
+http://kstv.us:8080,gaT5kcT2AG,5879423066,Active,2020-08-03 04:00:00,,3.0,5.0
+http://kstv.us:8080,h7z2NejYf7,0859309752,Active,2020-09-27 00:00:00,,3.0,5.0
+http://kstv.us:8080,hhbilla,4813765766,Active,2021-03-24 04:00:00,,3.0,5.0
+http://kstv.us:8080,k69AYzZU2C,52619843812,Active,2022-05-17 04:00:00,,3.0,5.0
+http://kstv.us:8080,Phillipm,4128916970,Active,2023-08-04 07:00:00,,3.0,5.0
+http://kstv.us:8080,brwW3RdtV2,49906209935,Active,2023-09-07 07:00:00,,3.0,5.0
+http://kstv.us:8080,FuRyR1yH1d,1449188108,Active,2020-05-29 00:00:00,,3.0,3.0
 http://kstv.us:8080,OPFKS1,7377990693,Active,2022-02-22 00:00:00,,3.0,3.0
-http://kstv.us:8080,s2kprmMPu7,3351048201,Active,2020-02-22 05:00:00,,4.0,5.0
+http://kstv.us:8080,gxSnXAd4zY,29024295669,Active,2022-09-30 06:00:00,,3.0,3.0
 http://kstv.us:8080,g4ap0MVZnp,2626532746,Active,2020-07-12 04:00:00,,4.0,5.0
-http://kstv.us:8080,5u4sn5cMbM,2142393505,Active,2020-10-25 04:00:00,,5.0,5.0
+http://kstv.us:8080,Ewee1234,21642695609,Active,2023-05-05 07:00:00,,4.0,5.0
+http://kstv.us:8080,na4BM3Mrc,5406787236,Active,2018-07-07 23:00:00,,4.0,4.0
 http://kstv.us:8080,TSPQu4xC8Y,1045505563,Active,2021-01-18 05:00:00,,5.0,5.0
-http://kstv.us:8080,HDH5UREEYP,42660591264,Active,2024-06-15 07:00:00,,5.0,5.0
+http://kstv.us:8080,Ta4wc3EEJX,7504699300,Active,2021-05-20 07:00:00,,5.0,5.0
+http://kstv.us:8080,pRFS4VCvRs,0623068498,invalid,,,,
+http://kstv.us:8080,ccsuBvAew4,Camila17,invalid,,,,
+http://kstv.us:8080,qSkRZ4xSuV,1031036311,invalid,,,,
+http://kstv.us:8080,mxrpam,4695171940,invalid,,,,
+http://kstv.us:8080,Ramsrule99,0692729567,invalid,,,,
+http://kstv.us:8080,s2kprmMPu7,3351048201,invalid,,,,
+http://kstv.us:8080,5u4sn5cMbM,2142393505,invalid,,,,
+http://kstv.us:8080,HDH5UREEYP,42660591264,invalid,,,,
 http://kstv.us:8080,s6DnzRzJ4s,7792866527,invalid,,,,
 http://kstv.us:8080,A2y4sQUNQ8,9645079798,invalid,,,,
 http://kstv.us:8080,bPGEXU8Ye8,7760308551*up,invalid,,,,
@@ -98,4 +98,4 @@ http://kstv.us:8080,vQDbXrQA6x,7273026339,invalid,,,,
 http://kstv.us:8080,cw350jj2SH,6072971849,invalid,,,,
 http://kstv.us:8080,fEeME8YQNH,1000872236,invalid,,,,
 http://kstv.us:8080,fW6YF8ffY4,1359388641,invalid,,,,
-http://zoralatte.com:8080,7bqebUu0P,9596793188,Active,2018-07-04 23:00:00,,1.0,3.0
+http://zoralatte.com:8080,7bqebUu0P,9596793188,Active,2018-07-04 23:00:00,,2.0,3.0
